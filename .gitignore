@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!encoder.py
+!decoder.py
+!huffman_decoder.py
+!huffman_encoder.py
+!mtf_encoder.py
+!mtf_decoder.py
+!bwt_decoder.py
+!bwt_encoder.py
+!README.md
+!dataset/
