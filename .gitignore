@@ -10,5 +10,6 @@
 !bwt_decoder.py
 !bwt_encoder.py
 !README.md
-!dataset/
+!/dataset/
+!/dataset/**
 !suffix_builder.py
