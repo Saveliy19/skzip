@@ -66,7 +66,7 @@ MTF работает со списком символов, в котором к�
 Склонируйте репозиторий:
 
 ```bash
-git https://github.com/Saveliy19/skzip.git
+git clone https://github.com/Saveliy19/skzip.git
 cd skzip
 ```
 
